@@ -10,7 +10,7 @@ This project focuses on optimizing e-commerce search queries by categorizing the
 - **CSV Output**: Saves the categorized results in a CSV file for easy analysis and integration.
 - **Scalability**: The categorization system can be easily expanded with more categories and keywords.
 
-**Folder Structure:**
+## Folder Structure:
 
 `Instamart Query Optimizer/`  
 ├── `data/` – Raw query data (CSV files)  

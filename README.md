@@ -10,13 +10,16 @@ This project focuses on optimizing e-commerce search queries by categorizing the
 - **CSV Output**: Saves the categorized results in a CSV file for easy analysis and integration.
 - **Scalability**: The categorization system can be easily expanded with more categories and keywords.
 
-## Project Structure
+**📁 Folder Structure:**
+- `data/` – Raw query data (CSV files)
+- `output/` – Processed output with mapped categories
+- `scripts/`
+  - `map_user_query.py` – Main script for query processing and categorization
 
-Instamart Query Optimizer/ │ ├── data/ # Folder containing raw query data (CSV files) ├── output/ # Folder to save the categorized query output ├── scripts/ # Folder containing the optimization script │ └── optimization.py # Main script to process and categorize queries ├── requirements.txt # List of dependencies └── README.md # Project documentation
 
-- **Python 3.x
+## Dependencies
 
-- **Pandas
-
+- **Python 3.x**
+- **Pandas**
 
 

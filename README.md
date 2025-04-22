@@ -12,9 +12,7 @@ This project focuses on optimizing e-commerce search queries by categorizing the
 
 ## Project Structure
 
-<pre><code> ## Project Structure ``` Instamart Query Optimizer/ │ ├── data/ # Folder containing raw query data (CSV files) │ ├── output/ # Folder to save the categorized query output │ ├── scripts/ # Folder containing the optimization script │ └── optimization.py # Main script to process and categorize queries │ ├── requirements.txt # List of dependencies │ └── README.md # Project documentation ``` </code></pre>
-
-## Dependencies
+Instamart Query Optimizer/ │ ├── data/ # Folder containing raw query data (CSV files) ├── output/ # Folder to save the categorized query output ├── scripts/ # Folder containing the optimization script │ └── optimization.py # Main script to process and categorize queries ├── requirements.txt # List of dependencies └── README.md # Project documentation
 
 - **Python 3.x
 
